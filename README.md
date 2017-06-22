@@ -3,6 +3,38 @@
 -- 系统框架： react + react-router + redux
 -- 数据交互： fetch + mock
 -- 其他辅助： git + npm
+
+#view
+1、主页显示：轮播图显示 + 列表的无限滚动，下拉刷新 + 个人信息显示更新
+
+![image](https://github.com/summer0719/react-dazhongAPP/blob/master/screen/home.png)
+
+2、选择城市: 城市选择更新redux
+
+![image](https://github.com/summer0719/react-dazhongAPP/blob/master/screen/city.png)
+
+3、登录页面：校验登录状态 + 登录信息更新
+
+![image](https://github.com/summer0719/react-dazhongAPP/blob/master/screen/login.png)
+
+4、个人主页：校验登录状态 + 用户名、地址拉取 + 订单展示
+
+![image](https://github.com/summer0719/react-dazhongAPP/blob/master/screen/user.png)
+
+5、评论：评价提交 + 取消评价
+
+![image](https://github.com/summer0719/react-dazhongAPP/blob/master/screen/comment.png)
+
+6、商家详情：下拉刷新列表 + 收藏 + 购买
+
+![image](https://github.com/summer0719/react-dazhongAPP/blob/master/screen/detail.png)
+![image](https://github.com/summer0719/react-dazhongAPP/blob/master/screen/detail-store.png)
+
+
+7、筛选列表：下拉刷新 + 列表展示 + 顶部搜索
+
+![image](https://github.com/summer0719/react-dazhongAPP/blob/master/screen/search.png)
+
 # 命令
 mkdir test
 rm rf test
